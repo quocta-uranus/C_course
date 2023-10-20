@@ -6,11 +6,11 @@ int main()
 
     std::cin >> a;
     if(a % 2 == 0){
-        std::cout << a << " la so chan";
+        std::cout << a << " la so CHAN";
 
     }
     else {
-        std::cout << a << " la so le";
+        std::cout << a << " la so LE";
     }
 
     
